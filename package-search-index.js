@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.carminezacc.morra"},{"l":"com.carminezacc.morra.backend"},{"l":"com.carminezacc.morra.models"},{"l":"com.carminezacc.morra.polling"},{"l":"com.carminezacc.morra.state"}]
