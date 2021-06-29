@@ -2,5 +2,5 @@ com.carminezacc.morra
 com.carminezacc.morra.backend
 com.carminezacc.morra.interfaces
 com.carminezacc.morra.models
-com.carminezacc.morra.polling
+com.carminezacc.morra.runnables
 com.carminezacc.morra.state
